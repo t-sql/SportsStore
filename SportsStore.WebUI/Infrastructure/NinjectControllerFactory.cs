@@ -26,7 +26,5 @@ namespace SportsStore.WebUI.Infrastructure {
         {
             // put bindings here
         }
-
-
     }
 }
